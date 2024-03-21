@@ -442,14 +442,3 @@ wss.on('connection', function connection(ws) {
 server.listen(3000, () => {
     console.log(`\x1b[36mServer is runing...\x1b[0m`);
 });
-
-//     const apiKey = 'AIzaSyDgIUU6T4PoqNrVy9FVtvs7W4VZDmxH1Bk';
-//     let apiKey2 = 'AIzaSyCCwxTgsStnpaN47P12msqkZi41UGsNjok';Youtube key
-//     const searchEngineId = 'f426500cb44ff4fc6';
-//     sql pass =  -- ulassuleyman09@gmail.com
-/** 
- * TODO: MongoDB kulanarak AI geliştir.Reactve MongoDB kulan.
- * ! SQL PASSWORD:Vals_Script?KEY:up?!%3 //S_USER
- * ! email  password === SqS://suleyman47? // SuleymanUlasx47 //mysql:Sulnull:key?2341 //Microsoft pass => S34f-48//>!null?
- * ! Android === https://developers.google.com/identity/sign-in/android/sign-in-identity?hl=en&authuser=1
-*/
